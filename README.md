@@ -10,6 +10,7 @@
     </a>
     <br>
 </p>
+
 ## Related Repository
 <p><a href="https://github.com/akshat-jjain/HackerRank-SQL-Solutions"><img src="https://github-readme-stats.vercel.app/api/pin/?username=akshat-jjain&repo=HackerRank-SQL-Solutions"></a>
 <a href="https://github.com/akshat-jjain/HackerRank-C-plus-plus-Solutions"><img src="https://github-readme-stats.vercel.app/api/pin/?username=akshat-jjain&repo=HackerRank-C-plus-plus-Solutions"></a>
