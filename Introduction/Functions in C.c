@@ -22,4 +22,4 @@ int max_of_four(int a, int b, int c, int d)
 }
 
 // Code credit :- Akshat Jain 
-//HackerRank Link :- https://www.hackerrank.com/akshat_jjain?hr_r=1
+// HackerRank Link :- https://www.hackerrank.com/akshat_jjain?hr_r=1
